@@ -41,6 +41,8 @@ cd LLBP
 
 5.基线与 NodeApp 深度复现
 
+执行下面的命令时注意自己的traces文件夹的实际位置要与命令的匹配。
+
 （1）运行 NodeApp 的三种模型对比
 ```bash
 ./predictor -b tage64kscl --simulate-btb -w 100M -n 200M -i nodeapp.trace.gz > res_node_base.txt 2>&1 &
