@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbpmodels.a CMakeFiles/bpmodels.dir/base_predictor.cc.o CMakeFiles/bpmodels.dir/tage/tage.cc.o CMakeFiles/bpmodels.dir/tage/tage_scl.cc.o CMakeFiles/bpmodels.dir/llbp/llbp.cc.o
+/usr/bin/ranlib libbpmodels.a
