@@ -2,7 +2,7 @@
 
 原论文github地址[LLBP](https://github.com/dhschall/LLBP)
 
-1. 环境准备：
+1.环境准备：
 
 （1）该项目基于 ChampSim 模拟器。
 
